@@ -1,0 +1,27 @@
+.card{
+ background-color: grey;
+width: 500px;
+height: 600px;
+border-radius: 15px;
+border: 5px solid rgb(17, 17, 105);
+text-align: center;
+}
+
+.picture{
+width: 500px;
+height: 450px;
+border-radius: 15px;
+
+}
+
+.text{
+text-align: center;
+
+
+}
+
+.link{
+text-align: center;
+width: 200px;
+height: 200px;
+}
